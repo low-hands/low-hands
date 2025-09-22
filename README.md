@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @low-hands
 - 👀 I’m interested in Large Language Models
-- 🌱 I’m currently in the Master of Engineering Program of Electrical and Computer Engineering at UBC, Vancouver
+- 🌱 I’m now a master of Engineering in Electrical and Computer Engineering at UBC, Vancouver
 - 📫 How to reach me ruig0401@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a transfer student from China to Canada!
