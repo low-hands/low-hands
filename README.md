@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @low-hands
-- 🌱 I’m now a master of Engineering in Electrical and Computer Engineering at UBC, Vancouver. Previously in University of Alberta, Edmonton and Beihang University, Beijing.
+- 🌱 I’m now a master student in the faculty of Electrical and Computer Engineering at UBC, Vancouver. Previously in University of Alberta, Edmonton and Beihang University, Beijing.
 - 😄 Pronouns: He/Him
 
 <!---
